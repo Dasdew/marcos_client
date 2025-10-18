@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "marcos_client"
+name = "marcos"
 version = "0.1.0"
 description = "Client (GUI and command-line interfaces) for MaRCoS"
 readme = { file = "readme.org", content-type = "text/plain" }
